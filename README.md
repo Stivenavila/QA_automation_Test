@@ -1,4 +1,4 @@
-# QA automation sERENITY
+# QA automation SERENITY
 
 It indicates step by step the configuration of the folders that will contain the 
 project and the libraries it uses, with their respective version.
